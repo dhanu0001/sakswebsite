@@ -1,0 +1,8 @@
+site_name: Www.saksfifthavenue.com
+
+nav:
+  - Home: index.md
+
+plugins:
+  - monorepo
+  - techdocs-core
